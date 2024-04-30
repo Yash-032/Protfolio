@@ -4,7 +4,7 @@ import { ArrowRightCircle } from "react-bootstrap-icons"
 import headerImg from "../assets/img/header-img.svg"
 
 export const Banner = () => {
-    const toRotate = [ "Software Developer" , "Web Developer" , "UI/UX Designer"];
+    const toRotate = [ "Software Developer" , "Web Developer"];
     const [loopNum, setLoopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
     const [text, setText] = useState('');
