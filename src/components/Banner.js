@@ -52,9 +52,9 @@ export const Banner = () => {
                         <span className="tagline">Welcome to my ProtFolio</span>
                         <h1>{`Hi I'm Yash Agarwal `}<br></br><span className="wrap"> {text}</span></h1>
                         <p>
-                        Passionate web developer proficient in crafting engaging web experiences with a strong foundation in Data Structures and Algorithms, adept at optimizing performance and solving complex problems efficiently.
+                        Enthusiastic web developer with a solid background in Data Structures and Algorithms. Skilled at improving performance and finding effective solutions to challenging issues.
                         </p>
-                        <button onClick={()=> console.log('Connect')}>Let's Connect <ArrowRightCircle size={25}/></button>
+                        <button onClick={()=> console.log('Connect')}>Download Resume<ArrowRightCircle size={25}/></button>
                     </Col>
                     <Col xs={12} md={6} xl={5}>
                             <img src={headerImg} alt="Headder Img"></img>
