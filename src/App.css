@@ -296,3 +296,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .txt-rotate > .wrap {
   border-right: 0.08em solid #666;
 }
+.resume-link {
+  text-decoration: underline;
+  color: #B8B8B8; /* Change color as desired */
+  font-size: 18px;
+}
+
+.arrow-icon {
+  font-size: 25px; /* Adjust size as desired */
+  vertical-align: middle;
+}
